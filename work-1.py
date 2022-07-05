@@ -1,0 +1,11 @@
+print("M.6/14")
+print("17 years old")
+print("the 23rd September 2004")
+print("Atjima Phanitwatthana")
+print("Chonrasadornumrung")
+print("PuPe")
+print("friend 3 members")
+print("favorite subjects eng bio Physic")
+print("live in Chonburi")
+print("dentist")
+#อัจจิมา พานิชวัฒนา เลขที่ 45
